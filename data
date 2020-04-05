@@ -1,0 +1,57 @@
+  [
+      {
+      "question_id" : 0,
+      "question": "What value of 'x' makes the equation below true? </br> -15 + (-5x) = 0",
+      "answers": [
+        {"id": 0, "text": "0"},
+        {"id": 1, "text": "-3"},
+        {"id": 2, "text": "3"}
+  
+      ],
+      "correct": 1
+    },
+    {
+      "question_id" : 1,
+      "question": "What is 1.92 divided by 3?",
+      "answers": [
+        {"id": 0, "text": "0.06"},
+        {"id": 1, "text": "0.64"},
+        {"id": 2, "text": "64"}
+  
+      ],
+      "correct": 1
+      },
+      {
+        "question_id" : 2,
+        "question": "Solve the math equation </br> 6/2(1+2)?",
+        "answers": [
+          {"id": 0, "text": "6"},
+          {"id": 1, "text": "1"},
+          {"id": 2, "text": "9"}
+    
+        ],
+        "correct": 2
+      },
+      {
+        "question_id" : 3,
+        "question": "At a party, everyone shook hands with everybody else. There were 66 handshakes. How many people were at the party?",
+        "answers": [
+          {"id": 0, "text": "12"},
+          {"id": 1, "text": "30"},
+          {"id": 2, "text": "33"}
+    
+        ],
+        "correct": 0
+      },
+      {
+       "question_id" : 4,
+       "question": "if 5/5 = 1, then 1 = ?",
+       "answers": [
+        {"id": 0, "text": "0"},
+        {"id": 1, "text": "5"},
+        {"id": 2, "text": "1"}
+  
+      ],
+      "correct": 2
+    }
+  ]
